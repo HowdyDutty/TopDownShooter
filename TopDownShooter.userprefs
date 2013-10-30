@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scipts\Player.cs">
+    <Files>
+      <File FileName="Assets\Scipts\GameOver.cs" Line="36" Column="58" />
+      <File FileName="Assets\Scipts\Player.cs" Line="44" Column="3" />
+      <File FileName="Assets\Scipts\Spawn.cs" Line="49" Column="51" />
+      <File FileName="Assets\Scipts\Bullet.cs" Line="26" Column="62" />
+      <File FileName="Assets\Scipts\Enemy.cs" Line="22" Column="3" />
+      <File FileName="Assets\Scipts\LookAtMouse.cs" Line="18" Column="11" />
+      <File FileName="Assets\Scipts\Gun.cs" Line="17" Column="2" />
+      <File FileName="Assets\Scipts\Menu.cs" Line="18" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
