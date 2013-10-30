@@ -20,12 +20,21 @@ to quit the application.
 
 
 //////////////////////////////////////////////////////////////////////////
+
 ///   ISSUES THAT STILL NEED TO BE WORKED OUT                          ///
+
 ///   1)  kill count doesn't work                                      ///
+
 ///   2)  enemies still spawn at same time                             ///
+
 ///   3)  time doesn't reset if play button is hit again               ///
+
 ///   4)  bullets spawn in front of player, not in front of gun.       ///
+
 ///       As a result, the bullets instantiate inside of the gun       ///
+
 ///       when the player is facing downwards and don't appear to      ///
+
 ///       shoot.                                                       ///
+
 //////////////////////////////////////////////////////////////////////////
